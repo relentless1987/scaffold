@@ -1,4 +1,4 @@
-name: Python application test with Github Actions
+name: Python application test with Github Actions - Keep Trying to Fix
 on: [push]
 jobs:
   build:
